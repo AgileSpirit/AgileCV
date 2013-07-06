@@ -7,6 +7,8 @@ From Product point of view : "It is about beautiful online CV written simply and
 
 From Developer point of view : "Learn trendy cool technologies !"
 
+Here, an <a href="http://agile-spirit.fr/cv/">exemple of expected CV</a>.
+
 Product Backlog
 ---------------
 <ol>
