@@ -48,7 +48,7 @@ Technical Stack
       <td>Back-end services</td>
     </tr>
     <tr>
-      <td><a href="http://visionmedia.github.io/mocha/">Mocha</a></td>
+      <td><a href="http://mochajs.org/">Mocha</a></td>
       <td>NodeJS testing for NodeJS</td>
     </tr>
     <tr>
